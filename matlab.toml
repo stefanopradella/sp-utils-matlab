@@ -1,1 +1,6 @@
 name = "sp-utils-matlab"
+
+[folders]
+path = [
+    "iqconvert",
+]
